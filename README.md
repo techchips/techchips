@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I’m a passionate second-year Computer Science st
 
 ### **🛠️ Skills & Technologies**
 
-- **Programming Languages:** Python, R, SQL
+- **Programming Languages:** Python, R, SQL, C++, Java
 - **Machine Learning:** Supervised & Unsupervised Learning, Model Evaluation, Feature Engineering, Model Deployment
 - **Frameworks & Tools:** scikit-learn, TensorFlow, Keras, PyTorch, Pandas, NumPy
 - **MLOps:** Docker, Kubernetes, CI/CD, Model Deployment
@@ -37,7 +37,8 @@ Explored generative AI models for text generation as part of academic research. 
 Analyzed customer data for a fictional scrapbook journal store, focusing on customer segmentation and retention strategies.)
 
 https://github.com/techchips/The-Ephemeral-Pages
----
+
+-------
 
 ### **💡 What I'm Learning**
 - Advanced Machine Learning Algorithms
